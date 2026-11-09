@@ -1,0 +1,10 @@
+{
+  "job_id": "midnightkarma-1794185125-p6",
+  "channel_id": "midnightkarma",
+  "status": "partial_failed",
+  "total_shards": 19,
+  "failed_shards": [
+    4
+  ],
+  "checked_at": "2026-11-09T03:26:11Z"
+}
